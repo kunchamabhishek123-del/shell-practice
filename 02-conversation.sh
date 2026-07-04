@@ -1,5 +1,5 @@
 #!/bin/bash
-P1=c
+p1=c
 p2=d
 
 echo "$p1: Hi, how are you"
